@@ -3,3 +3,6 @@
 
 ### The Naive bayes classification model is used.
 
+
+### Support Vector Regression of Male Population(Busia county)
+![image](images/pic.png)
